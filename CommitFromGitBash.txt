@@ -1,4 +1,4 @@
 This is a commit via GitBash
 
 This line is commited via Git Desktop
-The line was added from VScode
+The line was added
