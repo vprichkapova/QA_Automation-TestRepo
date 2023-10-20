@@ -6,3 +6,4 @@ Line with Gitbash
 This line is commited via Git Desktop
 The line was added
 >>>>>>> ce5b2c4b14d7ce5120467c555f5d7c18bb670b0c
+Hello again with Vscode
