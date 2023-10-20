@@ -1,1 +1,3 @@
 This is a commit via GitBash
+
+Line with Gitbash
